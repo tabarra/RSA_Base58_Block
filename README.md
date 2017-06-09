@@ -19,3 +19,5 @@ The objective of this project was to gain experience in the implementation of a 
 The intention of this project was never to make something good enough to be used in real life applications. Implementing cryptographic functions by yourself is almost never a good idea, and RSA is a great example of one cryptography very easy to screw up and end with a vulnerable code.  
   
 If you want to dive deeper in this awesome algorithm, I suggest trying to implement PEM/DER/ASN.1 key parsing, [Chinese Remainder Theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem), increasing it's compatibility with [PKCS1 2v2](https://tools.ietf.org/html/rfc8017), reading Dan Boneh's [Twenty Years of Attacks on the RSA Cryptosystem](https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf) paper or any of his lectures on the subject. You may also want to check [LINKS.md](https://github.com/tabarra/RSA_Base58_Block/blob/master/LINKS.md), where I saved many pages that helped me to understand RSA.
+
+**PS.: This was also my first C# project, so don't expect any part of it to be optimal.**
